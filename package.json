@@ -10,12 +10,11 @@
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.27.5",
+    "del": "^6.0.0",
     "gulp": "^4.0.2",
-    "gulp-sass": "^5.0.0",
-    "sass": "^1.38.1"
-  },
-  "dependencies": {
     "gulp-concat": "^2.6.1",
-    "gulp-uglifyjs": "^0.6.2"
+    "gulp-sass": "^5.0.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "sass": "^1.38.1"
   }
 }
